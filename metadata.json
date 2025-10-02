@@ -1,0 +1,5 @@
+{
+  "name": "AI Receipt Scanner",
+  "description": "An intelligent receipt scanning application that uses AI to extract key information from uploaded receipt images. It features a professional, animated UI for a seamless user experience.",
+  "requestFramePermissions": []
+}
